@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Web Development and DSA
 - 💞️ I’m looking to collaborate on some open source projects
-- 📫 How to reach me :
+- 📫 How to reach me : https://www.linkedin.com/in/sandhya-rani-aa8b36213
 
 <!---
 sandhya-exe/sandhya-exe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
