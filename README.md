@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Welcome to my profile!<br - 👀 I'm a student , part-time coder and full-time adventure seeker :')<br>- 🌱 I'm currently/always working on my skills.<br>- 💞️ I'm looking forward to collaborate on Open Source.<br>- 🔭 A Software Developer with bold ideas .<br>- ✍️ I'm learning Databases , backend.<br>- 💬 Ask me about Data Structures , Web dev Or any thing .<br> 
+- 👋 Welcome to my profile!<br> - 👀 I'm a student , part-time coder and full-time adventure seeker :')<br>- 🌱 I'm currently/always working on my skills.<br>- 💞️ I'm looking forward to collaborate on Open Source.<br>- 🔭 A Software Developer with bold ideas .<br>- ✍️ I'm learning Databases , backend.<br>- 💬 Ask me about Data Structures , Web dev Or any thing .<br> 
 
 
 ## 🌐 Socials:
